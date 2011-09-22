@@ -1,0 +1,73 @@
+#banner{
+	width:100%;
+	background-color:gray;
+	height:100px;
+}
+h1{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:20px;	
+	text-decoration:none;	
+	color:#FFFBD0;
+}
+h2{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;	
+	color:#FFFBD0;
+	font-weight:bold;
+}
+p{
+	font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+	font-size:11px;
+	text-align: justify;
+	color:white;
+}
+
+#container{
+	width:1024px;
+	height:768px;
+	border:2px solid black;
+	
+}
+
+#main{
+	background-color:#663333;
+	height:668px;
+	width:1024px;
+	float:left;
+}
+
+#menu {
+width:1024px;
+height:30px;
+margin: 10px auto 15px auto;
+padding:0px;
+float:center;
+padding-left:155px;
+ }
+ 
+#menu li {
+display:inline;
+}
+#menu li a{
+font-family: Arial;  
+font-size:11px;  
+text-decoration: none;  
+float:left;  
+padding: 10px;  
+background-color: #FFFBD0;  
+color: black;  
+ }
+ #menu li a:hover {  
+background-color: #FFFBD9;  
+margin-top:-2px;  
+padding-bottom:12px;  
+}  
+#div conteiner {
+border:10px solid #808080;
+float:left;
+}
+#button{
+color:#D6BF86;
+font-family:tahoma, geneva, sans-serif;
+}
+ 
