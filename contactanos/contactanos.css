@@ -1,0 +1,94 @@
+h1{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:20px;	
+	text-decoration:none;	
+	color:black;
+	text-align:center;
+}
+
+h2{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;	
+	color:black;
+	font-weight:bold;
+}
+
+h3{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;	
+	color:black;
+	font-weight:bold;
+}
+
+p{
+	font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;
+	font-size:11px;
+	text-align: justify;
+	color:black;
+}
+
+#container{
+	width:1024px;
+	height:768px;
+	border:2px solid black;
+}
+
+#imagecontact{
+	margin-left:38%;
+	border:2px solid black; 
+}
+
+#banner{
+	width:100%;
+	background-color:gray;
+	height:100px;
+}
+
+#main{
+	background-color:#FAFAC1;
+	height:668px;
+	width:1024px;
+	float:left;
+}
+
+#menu {
+	width:1024px;
+	height:30px;
+	margin: 10px auto 15px auto;
+	padding:0px;
+	float:center;
+	padding-left:155px;
+}
+
+#menu li {
+	display:inline;
+}
+
+#menu li a{
+	font-family: Arial;  
+	font-size:13px;  
+	text-decoration: none;  
+	font-weight:bold;
+	float:left;  
+	padding: 10px;  
+	background-color:#783737;  
+	color:#FAFAC1;  
+ }
+ 
+#menu li a:hover {  
+	background-color: #FAFAC1;  
+	margin-top:-2px;  
+	padding-bottom:12px;  
+	color:#783737;
+} 
+
+.lista{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:16px;	
+	color:black;
+	font-weight:bold;
+}
+
+#contacto{
+	text-align:center;
+}
